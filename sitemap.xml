@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://virati.github.ioa/categories/</loc>
+    <loc>https://virati.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://virati.github.ioa/tags/</loc>
+    <loc>https://virati.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://virati.github.ioa/</loc>
+    <loc>https://virati.github.io/</loc>
     <priority>0</priority>
   </url>
   

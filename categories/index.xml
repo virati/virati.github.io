@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vineet&#39;s GitHub Overview</title>
-    <link>https://virati.github.ioa/categories/</link>
+    <link>https://virati.github.io/categories/</link>
     <description>Recent content in Categories on Vineet&#39;s GitHub Overview</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://virati.github.ioa/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://virati.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
