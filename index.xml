@@ -13,11 +13,20 @@
     
     <item>
       <title>LFP Spectrogram Viewer (SGView)</title>
-      <link>https://virati.github.io/portfolio/work1/</link>
+      <link>https://virati.github.io/portfolio/sgview/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://virati.github.io/portfolio/work1/</guid>
+      <guid>https://virati.github.io/portfolio/sgview/</guid>
       <description>&lt;p&gt;An LFP Spectrogram Viewer for the Bedside&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ECG as Tensor</title>
+      <link>https://virati.github.io/portfolio/ecgtens/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://virati.github.io/portfolio/ecgtens/</guid>
+      <description>&lt;p&gt;Re-framing the ECG signal as a tensor so we can be done with &amp;ldquo;palm readings&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>

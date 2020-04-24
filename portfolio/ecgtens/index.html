@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Portfolios</title>
+<title>ECG as Tensor</title>
 <meta name="description" content="Vineet&#39;s Portfolio">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -28,8 +28,6 @@
 
 <link href="https://virati.github.io/css/custom.css" rel="stylesheet">
 <link rel="shortcut icon" href="https://virati.github.io/img/favicon.png">
-
-  <link href="https://virati.github.io/portfolio/index.xml" rel="alternate" type="application/rss+xml" title="Vineet's Github Portfolio" />
 
 
 </head>
@@ -95,67 +93,34 @@
 </div>
 
               
-  <div class="col-xs-12 col-sm-8 col-md-9 content-column">
-    <div class="small-navbar visible-xs">
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
   <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
   <h1 class="small-navbar-heading"><a href="https://virati.github.io/">Vineet&#39;s Github Portfolio</a></h1>
 </div>
 
-    <div class="grid">
-        <div class="row">
-          
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <div class="box-masonry">
-                      
-                        
-                        <a href="https://virati.github.io/portfolio/sgview/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        
-                            <img src="https://virati.github.io/img/portfolio/sg_proj.png" alt="" class="img-responsive">
-                        </a>
-                      
-                      
-                      <div class="box-masonry-text">
-                      
-                          <h4><a href="https://virati.github.io/portfolio/sgview/">LFP Spectrogram Viewer (SGView)</a></h4>
-                          <div class="box-masonry-description">
-                            <p>
-                                
-                                  <p>An LFP Spectrogram Viewer for the Bedside</p>
-                                
-                            </p>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <div class="box-masonry">
-                      
-                        
-                        <a href="https://virati.github.io/portfolio/ecgtens/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        
-                            <img src="https://virati.github.io/img/portfolio/ecgt_proj.png" alt="" class="img-responsive">
-                        </a>
-                      
-                      
-                      <div class="box-masonry-text">
-                      
-                          <h4><a href="https://virati.github.io/portfolio/ecgtens/">ECG as Tensor</a></h4>
-                          <div class="box-masonry-description">
-                            <p>
-                                
-                                  <p>Re-framing the ECG signal as a tensor so we can be done with &ldquo;palm readings&rdquo;.</p>
-                                
-                            </p>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          
-        </div>
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>ECG as Tensor</h1>
+         <p>Re-framing the ECG signal as a tensor so we can be done with &ldquo;palm readings&rdquo;.</p>
+<p>The <em>electrocardiogram</em> is
+New DBS hardware lets us record from the implanted DBS lead.
+Being able to quickly assess the quality of the recordings at the patient&rsquo;s bedside is lets us maximize the <em>signal-to-noise</em> in the recordings.
+I developed a MATLAB based UI for LFP <em>spectrogram</em> assessment directly at the patient&rsquo;s bedside.</p>
+<p><a href="github.com/virati/ECGTensor">Github Repo</a></p>
+<h2 id="why-is-this-important">Why is this important?</h2>
+<p>To be clear, this isn&rsquo;t anything new.
+There has been a lot of excellent work done on analysing ECGs with modern tools, including cutting edge approaches in machine learning (ML).
+What seems to have always been lacking is an understanding on the clinical side of <em>why</em> these math-based approaches are better and must be adopted ASAP.</p>
+<p><img src="https://raw.githubusercontent.com/virati/SGView/master/imgs/SG_View_frontend.png" alt="A 3d animation of the ECG &lsquo;Vector&rsquo;"></p>
+<p>Clinicians using DBS are starting to listen on on brain activity as they try to optimize stimulation for various brain disorders.
+Having an easy-to-use tool that enables high-level analysis of recordings can go a long way to ensuring the success of a research proposal.</p>
+         
+      </div>
     </div>
+  </div>
 </div>
-
 
           </div>
       </div>
