@@ -17,7 +17,7 @@
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>https://virati.github.io/portfolio/work1/</guid>
-      <description>New DBS hardware lets us record from the implanted DBS lead. Being able to quickly assess the quality of the recordings at the patient&amp;rsquo;s bedside is crucial to maximize the signal-to-noise in the recordings. I developed a MATLAB based UI for LFP spectrogram assessment.
+      <description>An LFP Spectrogram Viewer for the Bedside New DBS hardware lets us record from the implanted DBS lead. Being able to quickly assess the quality of the recordings at the patient&amp;rsquo;s bedside is crucial to maximize the signal-to-noise in the recordings. I developed a MATLAB based UI for LFP spectrogram assessment.
 Header Level 2 </description>
     </item>
     
