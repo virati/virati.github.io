@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>EEG Visualization Tools</title>
+      <link>https://virati.github.io/portfolio/eeg_viz/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://virati.github.io/portfolio/eeg_viz/</guid>
+      <description>&lt;p&gt;A Python library that I made for spectral analysis of EEG in the context of DBS and DTI.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>LFP Spectrogram Viewer (SGView)</title>
       <link>https://virati.github.io/portfolio/sgview/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
